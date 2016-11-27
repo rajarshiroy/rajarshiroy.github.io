@@ -4,6 +4,9 @@ title: "Arduino Based PC Ambient Lighting"
 date: 2011-02-08
 ---
 
+# TEST MARKDOWN #
+
+
 Arduino Based PC Ambient Lighting
 I really like the concept of ambient lighting systems which synchronize with entertainment to create a great immersive experience. And since I had a RGB led strip lying around I decided to use my Arduino and a Processing sketch to create such a system for computers which really turned out great!
 
