@@ -46,7 +46,7 @@ footer {
     font-size: .8em;
 }
 hr { 
-    color: #d5d5d5;
+    border: 1px solid #d5d5d5;
 }
 ul.posts {
     margin: 20px auto 40px;
