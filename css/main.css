@@ -12,13 +12,8 @@ nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
 }
-a {
-    text-decoration: none;
-    color: #000;
-}
-a:hover {
-    text-decoration: underline;
-}
+a.one:link {color:#000000;text-decoration:none;}
+a.one:hover {color:#000000;text-decoration:underline;}
 h1 {
     font-size: 3em;
     font-family:'Helvetica';
