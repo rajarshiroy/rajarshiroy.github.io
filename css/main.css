@@ -12,8 +12,15 @@ nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
 }
-a.one:link {color:#000000;text-decoration:none;}
-a.one:hover {color:#000000;text-decoration:underline;}
+a:link {color:#000000; text-decoration:none;}
+a:visited {color:#000000; text-decoration:none;}
+a:hover {color:#000000; text-decoration:underline;}
+a.navsel:link {color:#000000; text-decoration:none;}
+a.navsel:visited {color:#000000; text-decoration:none;}
+a.navsel:hover {color:#000000; text-decoration:none;}
+a.navunsel:link {color:#808080; text-decoration:none;}
+a.navunsel:visited {color:#808080; text-decoration:none;}
+a.navunsel:hover {color:#000000; text-decoration:none;}
 h1 {
     font-size: 3em;
     font-family:'Helvetica';
