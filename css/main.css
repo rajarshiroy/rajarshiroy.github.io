@@ -37,9 +37,15 @@ h3 {
     font-weight: bold;
     color: #222;
 }
-p {
+h4 {
     font-size: 1em;
     line-height: 1.4em;
+    color: #222;
+    font-family:'Helvetica';
+}
+p {
+    font-size: 0.9em;
+    line-height: 1.1em;
     color: #222;
     font-family:'Helvetica';
 }
