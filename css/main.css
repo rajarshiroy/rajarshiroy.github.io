@@ -49,6 +49,10 @@ p {
     color: #222;
     font-family:'Helvetica';
 }
+p.projects {
+    font-size: 0.8em;
+    line-height: 1em;
+}
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
